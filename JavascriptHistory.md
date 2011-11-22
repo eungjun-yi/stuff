@@ -39,12 +39,13 @@ Editorial changes to keep the specification fully aligned with ISO/IEC 16262 int
 
 #1999년 12월#
 *ECMA-262 third edition* published.
- * Added regular expressions
- * better string handling
- * new control statements
- * try/catch exception handling
- * tighter definition of errors
- * formatting for numeric output and other enhancements
+
+* Added regular expressions
+* better string handling
+* new control statements
+* try/catch exception handling
+* tighter definition of errors
+* formatting for numeric output and other enhancements
 
 *JavaScript 1.5*. 현제 대세. 익스플로러 5.5도 지원함.
 
@@ -56,21 +57,24 @@ BrendanEich, Mozilla Corporation의 CTO 취임.
 
 #2005년 11월#
 *JavaScript 1.6* (Firefox 1.5)
- * E4X
- * Array extras (e.g. Array.prototype.forEach)
- * Array and String generics (New in JavaScript 1.6)
+
+* E4X
+* Array extras (e.g. Array.prototype.forEach)
+* Array and String generics (New in JavaScript 1.6)
 
 #2006년 10월#
 *JavaScript 1.7* (Firefox 2.0)
- * Pythonic generators and array comprehensions 
- * block scope with let
- * destructuring assignment
+
+* Pythonic generators and array comprehensions 
+* block scope with let
+* destructuring assignment
 
 #2008년 6월#
 *JavaScript 1.8* (Firefox 3.0, Opera 11.50)
- * expression closures (function(x) x * x)
- * generator expressions
- * and more (New in JavaScript 1.8)
+
+* expression closures (function(x) x * x)
+* generator expressions
+* and more (New in JavaScript 1.8)
 
 #2008년 8월 13일#
 *ECMAScript 4th edtion* to *ECMAScript Harmony*
@@ -81,13 +85,14 @@ CommonJS 프로젝트 시작. JavaScript 의 standard library를 만드는 것�
 
 #2009년 12월#
 *ECMAScript 5th edition* published.
- * Adds "strict mode"
-  * a subset intended to provide more thorough error checking and avoid error-prone constructs. Clarifies many ambiguities in the 3rd edition specification
-  * and accommodates behaviour of real-world implementations that differed consistently from that specification.
- * Adds some new features
-  * such as getters and setters
-  * library support for JSON
-  * and more complete reflection on object properties.
+
+* Adds "strict mode"
+    * a subset intended to provide more thorough error checking and avoid error-prone constructs. Clarifies many ambiguities in the 3rd edition specification
+    * and accommodates behaviour of real-world implementations that differed consistently from that specification.
+* Adds some new features
+    * such as getters and setters
+    * library support for JSON
+    * and more complete reflection on object properties.
 
 SpiderMonkey, Rhino, V8이 지원함.
 
@@ -102,10 +107,10 @@ SpiderMonkey 코드 소유권을 Dave Mandelin에게 이전
 
 References
 ----------
- * http://en.wikipedia.org/wiki/Javascript
- * http://en.wikipedia.org/wiki/Ecmascript
- * http://en.wikipedia.org/wiki/Rhino_(JavaScript_engine)
- * http://brendaneich.com/2008/04/popularity/
- * http://brendaneich.com/2011/06/new-javascript-engine-module-owner/
- * http://www.infoworld.com/d/developer-world/javascript-creator-ponders-past-future-704
- * http://www.computerworld.com.au/article/255293/a-z_programming_languages_javascript#closeme
+* http://en.wikipedia.org/wiki/Javascript
+* http://en.wikipedia.org/wiki/Ecmascript
+* http://en.wikipedia.org/wiki/Rhino_(JavaScript_engine)
+* http://brendaneich.com/2008/04/popularity/
+* http://brendaneich.com/2011/06/new-javascript-engine-module-owner/
+* http://www.infoworld.com/d/developer-world/javascript-creator-ponders-past-future-704
+* http://www.computerworld.com.au/article/255293/a-z_programming_languages_javascript#closeme
